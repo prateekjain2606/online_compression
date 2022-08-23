@@ -20,4 +20,6 @@ python3 decoder.py <compressed_file_path>
 python3 compare.py
 ```
 
+data.txt contains sample data to test the algorithm. 
+
 Detailed information about the algorithm can be found in the report
