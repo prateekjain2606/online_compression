@@ -1,1 +1,1 @@
-# Online Compression using LZ777 Algorithm
+# Online Compression using LZ77 Algorithm
